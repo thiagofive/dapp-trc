@@ -10,10 +10,10 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>NFT Minting Starter Kit</title>
+        <title>Token Rio Club</title>
         <meta
           name="description"
-          content="Starter kit for developers who want to build an NFT minting site"
+          content="The Token for the best Clubs."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
