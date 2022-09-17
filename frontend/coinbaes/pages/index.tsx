@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <title>Air Planes Club</title>
         <meta
           name="description"
-          content="Come Fly With Us."
+          content="Let's Fly Away."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
