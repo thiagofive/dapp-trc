@@ -76,17 +76,13 @@ const NavBar = () => {
             </Button>
           </a>
           <ConnectWallet size="md" />
-          <a
+          <FaOpensea 
+            aria-label="twitter icon"
+            size="lg"
+            colorScheme="white" 
+            variant="ghost"
             href="https://opensea.io"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaOpensea 
-              aria-label="twitter icon"
-              size="lg"
-              colorScheme="white" 
-              variant="ghost"
-            />
+          />
           <IconButton
             aria-label="twitter icon"
             size="lg"
