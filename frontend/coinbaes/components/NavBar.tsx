@@ -80,7 +80,7 @@ const NavBar = () => {
           <IconButton
             aria-label="twitter icon"
             size="lg"
-            colorScheme="white"
+            colorScheme="white" 
             variant="ghost"
             icon={<FaTwitter />}
           />
