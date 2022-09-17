@@ -87,6 +87,7 @@ const NavBar = () => {
           <IconButton
             aria-label="discord icon"
             size="lg"
+            link="https://discord.com"
             colorScheme="white"
             variant="ghost"
             icon={<FaDiscord />}

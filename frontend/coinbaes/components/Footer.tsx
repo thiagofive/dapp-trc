@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className={`${styles.footer}`}>
       <div className={styles.socials}>
-        {`✈️Let's fly away✈️`}
+        {`✈️ Let's fly away`}
         <IconButton
           aria-label="Search database"
           colorScheme="gray"
