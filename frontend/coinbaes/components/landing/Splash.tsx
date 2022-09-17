@@ -8,7 +8,7 @@ const SplashBanner = () => {
     <div id="splash">
       <div className={styles.background}>
         <main className={styles.main}>
-          <h1 className={styles.splashTitle}>Non-fungible Coinbaes</h1>
+          <h1 className={styles.splashTitle}>Non-fungible Airplanes</h1>
           <Link href="/mint">
             <Button
               style={{
