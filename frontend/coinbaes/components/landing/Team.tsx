@@ -71,6 +71,21 @@ const Team = () => {
                 Code, Commmunity
               </p>
             </Box>
+            <Box>
+              <Box background="lightblue">
+                <Image
+                  alt="placeholder image for team members"
+                  src={"/assets/sol.png"}
+                  width={250}
+                  height={250}
+                />
+              </Box>
+              <p className={styles.center}>
+                <strong>Rusty Sol</strong>
+                <br />
+                Smart contracts, Security
+              </p>
+            </Box>
           </SimpleGrid>
         </main>
       </div>
