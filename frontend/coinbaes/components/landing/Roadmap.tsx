@@ -10,17 +10,17 @@ const Roadmap = () => {
             <div className={styles.timeline}>
               <div className={styles.containerRight}>
                 <div className={styles.content}>
-                  <p>Yay mint some Coinbaes</p>
+                  <p>Yay mint some Airplanes</p>
                 </div>
               </div>
               <div className={styles.containerLeft}>
                 <div className={styles.content}>
-                  <p>Coinbaes sell out!</p>
+                  <p>Airplanes sell out!</p>
                 </div>
               </div>
               <div className={styles.containerRight}>
                 <div className={styles.content}>
-                  <p>Membership only access to free websites</p>
+                  <p>Membership only access to websites</p>
                 </div>
               </div>
               <div className={styles.containerLeft}>
@@ -43,7 +43,7 @@ const Roadmap = () => {
               </div>
               <div className={styles.containerRight}>
                 <div className={styles.content}>
-                  <p>Community Fund to fund more Coinbae projects</p>
+                  <p>Community Fund to fund more Airplanes projects</p>
                 </div>
               </div>
               <div className={styles.containerLeft}>
@@ -54,7 +54,7 @@ const Roadmap = () => {
               <div className={styles.containerRight}>
                 <div className={styles.content}>
                   <p>
-                    Coinbae Metaverse Game "Otherdime" Launch on
+                    Airplanes Metaverse Game "Otherdime" Launch on
                     ZK-Fruit-Rollups
                   </p>
                 </div>
