@@ -21,9 +21,9 @@ const Team = () => {
                 height={250}
               />
               <p className={styles.center}>
-                <strong>Stable Ser</strong>
+                <strong>Thiago Montagnini</strong>
                 <br />
-                Community, Marketing
+                Tokenomics, Smart contracts, Code
               </p>
             </Box>
             <Box
@@ -38,9 +38,9 @@ const Team = () => {
                 height={250}
               />
               <p className={styles.center}>
-                <strong>Lunatic</strong>
+                <strong>Isabele Xavier</strong>
                 <br />
-                Marketing, Tokenomics
+                Art, Marketing
               </p>
             </Box>
             <Box>
@@ -69,21 +69,6 @@ const Team = () => {
                 <strong>Coinbae Stox</strong>
                 <br />
                 Code, Commmunity
-              </p>
-            </Box>
-            <Box>
-              <Box background="lightblue">
-                <Image
-                  alt="placeholder image for team members"
-                  src={"/assets/sol.png"}
-                  width={250}
-                  height={250}
-                />
-              </Box>
-              <p className={styles.center}>
-                <strong>Rusty Sol</strong>
-                <br />
-                Smart contracts, Security
               </p>
             </Box>
           </SimpleGrid>
