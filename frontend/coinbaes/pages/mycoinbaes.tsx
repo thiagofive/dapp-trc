@@ -77,7 +77,7 @@ const NFTViewer: NextPage = () => {
               {(!tokens || tokens.length <= 0) && (
                 <>
                   <p style={{ color: "white", marginBottom: "2rem" }}>
-                    You don't own any Coinbaes yet. Wanna mint one?
+                    You don't own any Airplanes yet. Wanna mint one?
                   </p>
                   <HStack>
                     <Link href="/mint">

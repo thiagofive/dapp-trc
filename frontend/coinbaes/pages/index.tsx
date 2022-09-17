@@ -10,10 +10,10 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Token Rio Club</title>
+        <title>Air Planes Club</title>
         <meta
           name="description"
-          content="The Token for the best Clubs."
+          content="Come Fly With Us."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

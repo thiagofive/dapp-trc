@@ -79,7 +79,7 @@ const Mint: NextPage = () => {
       <div className={styles.container}>
         <main className={styles.main}>
           <h1 className={styles.title}>
-            Non-fungible Coinbaes
+            Non-fungible Airplanes
             <br />
             ⚡️ Minting Now ⚡️
           </h1>
