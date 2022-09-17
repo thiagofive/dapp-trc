@@ -78,7 +78,6 @@ const NavBar = () => {
           <ConnectWallet size="md" />
           <FaOpensea 
             aria-label="opensea icon"
-            size="lg"
             colorScheme="white" 
             variant="ghost"
           />
