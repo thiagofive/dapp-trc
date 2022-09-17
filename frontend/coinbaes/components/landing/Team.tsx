@@ -16,7 +16,7 @@ const Team = () => {
             >
               <Image
                 alt="placeholder image for team members"
-                src={"/assets/plane-purple.png"}
+                src={"/assets/plane-money.png"}
                 width={250}
                 height={250}
               />
