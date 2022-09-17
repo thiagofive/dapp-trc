@@ -11,20 +11,20 @@ import {
 const FAQ = () => {
   const faqData = [
     {
-      question: "What is the Non-Fungible Coinbae project?",
+      question: "What is the Non-Fungible Airplane Club?",
       answer:
-        "The non-fungible Coinbae project is a sample dapp that showcases a frontend boilerplate for a generic NFT minting project that can be built with the `NFT Dapp Starter Kit`.",
+        "The non-fungible Airplane Club is a dapp built for owners and future owners of our NFT collection.",
     },
     {
-      question: "How can I build something like this of my own?",
+      question: "Is there any advantages of being part of the Airplane Club?",
       answer:
-        "Go fork the `NFT Dapp Starter Kit` source code to kick start your own project! Don't forget to share your project on Twitter and tag @CoinbaseWallet, we'd love to see what you build:)",
+        "Right now you can have the most advantage of all that is being a part of the family who fly around the world and share lots of love to everyone:)",
     },
     {
       question:
         "If I have questions or run into any issues, where can I ask them?",
       answer:
-        "Add your questions to the `Issues` page on our Github repository. We'll try to get back to you as soon as possible!",
+        "Just send us an email. We'll try to get back to you as soon as possible!",
     },
   ];
 
