@@ -58,7 +58,7 @@ const NavBar = () => {
         </div>
         <div className={styles.rightPartition}>
           <a
-            href="https://github.com/CoinbaseWallet/nft-dapp-starter-kit"
+            href="#"
             target="_blank"
             rel="noreferrer"
           >
@@ -76,7 +76,17 @@ const NavBar = () => {
             </Button>
           </a>
           <ConnectWallet size="md" />
-          <FaOpensea />
+          <a
+            href="https://opensea.io"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FaOpensea 
+              aria-label="twitter icon"
+              size="lg"
+              colorScheme="white" 
+              variant="ghost"
+            />
           <IconButton
             aria-label="twitter icon"
             size="lg"
