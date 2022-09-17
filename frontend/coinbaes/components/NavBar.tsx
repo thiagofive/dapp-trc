@@ -81,7 +81,6 @@ const NavBar = () => {
             size="lg"
             colorScheme="white" 
             variant="ghost"
-            href="https://opensea.io"
           />
           <IconButton
             aria-label="twitter icon"
