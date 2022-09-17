@@ -23,7 +23,7 @@ const SplashBanner = () => {
           <div className={styles.coinbaes}>
             <Image src="/assets/plane-white-purple.png" height={300} width={300} />
             <Image src="/assets/plane-white-red.png" height={300} width={300} />
-            <Image src="/assets/plane-white-purple.png" height={300} width={300} />
+            <Image src="/assets/pixil-frame-red-white.png" height={300} width={300} />
             <Image src="/assets/plane-white-red.png" height={300} width={300} />
           </div>
         </main>
